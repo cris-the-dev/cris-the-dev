@@ -13,13 +13,7 @@ I'm a software engineer with a passion for building robust and scalable applicat
 ### DevOps
 [![DevOps](https://skillicons.dev/icons?i=aws,docker,git,jenkins,gradle,kafka,kubernetes,redis&theme=light)](https://skillicons.dev)
 
-
-<br>
-<br>
-<br>
-
 ### Let's connect!
-<br>
 [![Linkedin](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/tiennln/)
 
 **Open to:**
