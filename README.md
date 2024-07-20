@@ -5,13 +5,13 @@ I'm a software engineer with a passion for building robust and scalable applicat
 
 ### Languages & Frameworks
 
-[![Language](https://skillicons.dev/icons?i=java,kotlin,typescript,javascript&theme=light)](https://skillicons.dev)
+[![Language](https://skillicons.dev/icons?i=java,kotlin,cs,typescript,javascript&theme=light)](https://skillicons.dev)
 [![Frameworks](https://skillicons.dev/icons?i=spring&theme=light)](https://skillicons.dev)
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp0pGpmve1SdfSjHLxlv7oJONd5KAVs_tsvQ&s" width="50" height="50">
-[![My Skills](https://skillicons.dev/icons?i=nodejs,react&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,redux&theme=light)](https://skillicons.dev)
 
 ### DevOps
-
+[![DevOps](https://skillicons.dev/icons?i=aws,docker,git,jenkins,gradle,kafka,kubernetes,redis&theme=light)](https://skillicons.dev)
 
 
 <br>
@@ -19,9 +19,7 @@ I'm a software engineer with a passion for building robust and scalable applicat
 <br>
 
 **Let's connect!**
-* **LinkedIn:**
-* **Twitter:**
-* **Portfolio:**
+[![Linkedin](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/tiennln/)
 
 **Open to:**
 * Collaborating on exciting projects
