@@ -18,7 +18,7 @@ I'm a software engineer with a passion for building robust and scalable applicat
 <br>
 <br>
 
-**Let's connect!**
+### Let's connect!
 <br>
 [![Linkedin](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/tiennln/)
 
